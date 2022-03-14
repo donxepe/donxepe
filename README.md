@@ -18,7 +18,7 @@
 
 I'm Luis Zepeda, a Full Stack developer with a Background in Life Sciences (Biotech, Biochemistry). Experience working with Javascript, React, Redux, Node, Express,js, PostgreSQL. 
 
-Eventhough I was writing code since I was 8, I didn't think of it as a carrer until I took a Machine Learning class during my Biochem Master's coursework. It was then where the power of IT and Software really dawned on me. I think the software industry is where someone has an impact to affect people's live that few industries have, and I want to be a part of that.
+Event hough I was writing code since I was 8, I didn't think of it as a career until I took a Machine Learning class during my Biochem Master's coursework. It was then where the power of IT and Software really dawned on me. I think the software industry is where someone has an impact to affect people's live that few industries have, and I want to be a part of that.
 
 Machine learning, Data Science, Open Source Software, Open Data and GNU/Linux enthusiast.
 
