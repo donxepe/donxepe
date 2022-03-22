@@ -22,6 +22,22 @@ Event hough I was writing code since I was 8, I didn't think of it as a career u
 
 Machine learning, Data Science, Open Source Software, Open Data and GNU/Linux enthusiast.
 
+
+# You can find me on: 
+
+[![Linkedin](https://img.shields.io/badge/Social-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2bbc8a)](https://www.linkedin.com/in/luiszepedatamez/)
+
+# Proyects
+
+### [Countries Individual Project](https://github.com/donxepe/pi-countries)
+
+A React|Redux|ExpressJS|Sequelize application that consumes data from www.restcountries.com API and presents a filtered/sorteable/searchable/paginated listing of the info. Users can create custom touristic activities and assign them to one or many countries at a time.
+
+https://user-images.githubusercontent.com/13108994/159401664-c3c1c22e-a881-4854-8ad5-1d288ce996cd.mp4
+
+### [E-commerce Group Project](https://github.com/David-j787/E-Commerce-G7/issues?q=author%3Adonxepe)
+(Under construction)
+
 # 📊 My Stats
 
 [![](https://github-readme-stats.vercel.app/api?username=donxepe&&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/donxepe)
@@ -29,6 +45,5 @@ Machine learning, Data Science, Open Source Software, Open Data and GNU/Linux en
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=donxepe&theme=dark&count_private=true&theme=radical)](https://github.com/donxepe)
 
 
-# You can find me on: 
 
-[![Linkedin](https://img.shields.io/badge/Social-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2bbc8a)](https://www.linkedin.com/in/luiszepedatamez/)
+
