@@ -38,6 +38,8 @@ https://user-images.githubusercontent.com/13108994/159401664-c3c1c22e-a881-4854-
 ### [E-commerce Group Project](https://github.com/bserra7/E-Commerce-G7)
 (Under construction)
 
+[Deployed](https://electroshop-ecommerce.vercel.app/)
+
 # 📊 My Stats
 
 [![](https://github-readme-stats.vercel.app/api?username=donxepe&&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/donxepe)
