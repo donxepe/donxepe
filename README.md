@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/editor-VSCode-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/editor-vim-informational?style=for-the-badge&logo=vim&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Fedora-informational?style=for-the-badge&logo=fedora&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-OpenSuse-informational?style=for-the-badge&logo=opensuse&logoColor=white&color=2bbc8a)
 
 
 # 👋 Hi!
