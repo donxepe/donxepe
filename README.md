@@ -36,7 +36,6 @@ A React|Redux|ExpressJS|Sequelize application that consumes data from www.restco
 https://user-images.githubusercontent.com/13108994/159401664-c3c1c22e-a881-4854-8ad5-1d288ce996cd.mp4
 
 ### [E-commerce Group Project](https://github.com/bserra7/E-Commerce-G7)
-(Under construction)
 
 [Deployed](https://electroshop-ecommerce.vercel.app/)
 
