@@ -27,7 +27,7 @@ Machine learning, Data Science, Open Source Software, Open Data and GNU/Linux en
 
 [![Linkedin](https://img.shields.io/badge/Social-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2bbc8a)](https://www.linkedin.com/in/luiszepedatamez/)
 
-# Proyects
+# Projects
 
 ### [Countries Individual Project](https://github.com/donxepe/pi-countries)
 
